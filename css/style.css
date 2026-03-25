@@ -11,7 +11,7 @@ h1 {
     font-size: 44px;
     font-weight: 400;
     font-style: italic;
-    background-color: lightgray;
+    background: linear-gradient(to right, whitesmoke, lightgray, whitesmoke);
 }
 
 table {
