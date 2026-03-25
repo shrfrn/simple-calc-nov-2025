@@ -1,7 +1,7 @@
 'use strict'
 
-var num1 = 0
-var num2 = 0
+var num1 = ''
+var num2 = ''
 var operator = ''
 var x = 10
 
